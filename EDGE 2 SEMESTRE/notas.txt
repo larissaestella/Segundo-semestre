@@ -1,0 +1,13 @@
+[-23.5106, -46.8761]
+
+
+ [52.5244, 13.4105]
+
+https://api.openweathermap.org/data/2.5/weather?lat=-23.5106&lon=-46.8761&appid=a669c7581a465a7a7c6ca5cea61e378f&units=metric
+
+https://api.openweathermap.org/data/2.5/weather?lat=52.5244&lon=13.4105&appid=a669c7581a465a7a7c6ca5cea61e378f&units=metric
+
+node red dashboard
+openweathermap
+
+node-red 
